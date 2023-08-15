@@ -1,0 +1,3 @@
+- [pytube](https://pypi.org/project/pytube/#Quickstart)
+  - fix `class Cipher` line 30 -> `var_regex = re.compile(r"^\$*\w+\W")`
+- [ffmpeg-python](https://pypi.org/project/ffmpeg-python/) (only for `main_video_audio.py`)
